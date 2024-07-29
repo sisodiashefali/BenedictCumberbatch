@@ -25,4 +25,7 @@ Issue faced:
 
 Ideal way to initialize API_KEY is to keep in local.properties, and define in buildConfig, then use the parameter in required code. I tried to implement it but it did not generate Buildconfig class. Currently I have created constant variable to use in the project. 
 
- 
+ ![MovieList Screenshot](https://github.com/user-attachments/assets/4bc7bfe8-d027-4d4c-b1d9-9962e1357595)
+ ![Detail Screen screenshot](https://github.com/user-attachments/assets/3c99ed0e-6750-4a9e-8c61-1b977cfea971)
+
+
